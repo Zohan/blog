@@ -1,4 +1,4 @@
 baseURL = 'https://zakrubin.com'
 languageCode = 'en-us'
-title = 'Zak's A-Musings'
+title = "Zak's A-Musings"
 theme = 'hugo-xterm'
